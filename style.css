@@ -1,0 +1,21 @@
+/** 
+ * Theme Name: Spectre
+ * Theme URI: https://www.adiboocreative.xyz/shop/product/wordpress-theme/spectre
+ * Text Domain: spectre
+ * Author: Adiboo Creative (Adiboo Creative Karya Mandiri)
+ * Author URI: https://www.adiboocreative.xyz
+ * Description: Tema Wordpress yang dibuat khusus untuk ngeblog. Tampilan yang menawan dan juga kombinasi warna yang gak bikin bosen.
+ * Tags: accessibility-ready, custom-colors, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, sticky-post, translation-ready
+ * License: GNU General Public License v2 or later
+ * License URI: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+ * Version: 1.0.1
+ */
+
+ .wp-caption {}
+.wp-caption-text {}
+.screen-reader-text {}
+.gallery-caption {}
+.bypostauthor {}
+.alignright {}
+.alignleft {}
+.aligncenter {}

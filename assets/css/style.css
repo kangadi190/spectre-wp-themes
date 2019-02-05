@@ -1,0 +1,66 @@
+
+/* Post Stylng */
+#main-post {
+    margin-top: -5rem;
+}
+#main-post .card {
+    border-radius: .5rem;
+}
+
+#main-post .card .left-image {border-radius: .5rem 0 0 .5rem}
+#main-post .card .right-image {border-radius: 0 .5rem .5rem 0}
+
+@media screen and (max-width: 600px) {
+    #main-post .card .left-image,
+    #main-post .card .right-image {
+        border-radius: .5rem .5rem 0 0;
+        height: 10rem;
+    }
+}
+
+#main-post .card-body p {
+    margin: 0;
+    padding: 0;
+}
+
+/* 404 */
+h1 .span {
+    background: #f2f0e4;
+    padding: 0 20px;
+    Text-align : Center; 
+}
+
+h1+* {
+    border-top: solid 2px #adac97;
+    padding-top: 28px;
+    margin-top: -28px;
+}
+
+/* Komentar */
+#kotak-komentar label {
+    padding: 0;
+    margin: 10px 0 0 0;
+}
+
+/* Footer Styling */
+footer#top {
+    background: #34495E;
+    padding: 3rem 0;
+    color: white;
+}
+
+footer#bottom {
+    background: rgb(34, 47, 61);
+    color: white;
+}
+
+footer#bottom div[class^="col-md"] {
+    padding: 20px 0 0 0;
+    margin: 0;
+}
+
+@media screen and (max-width: 600px) {
+    footer#bottom {
+        text-align: center;
+    }
+}
