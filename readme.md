@@ -3,16 +3,16 @@
 Spectre Themes Free (1.0.1)
 <table>
    <tr>
-      <td>Situs Web</td><td>: https://www.adiboocreative.xyz</td>
+      <td>Situs Web</td><td>https://www.adiboocreative.xyz</td>
    </tr>
    <tr>
-      <td>Situs Download Tema</td><td>: https://www.adiboocreative.xyz/product/wp-themes/spectre</td>
+      <td>Situs Download Tema</td><td>https://www.adiboocreative.xyz/product/wp-themes/spectre</td>
    </tr>
    <tr>
-      <td>Author</td><td>: Adiboo Creative Karya Mandiri</td>
+      <td>Author</td><td>Adiboo Creative Karya Mandiri</td>
    </tr>
    <tr>
-      <td>Version</td><td>: 1.0.1</td>
+      <td>Version</td><td>1.0.1</td>
    </tr>
 </table>
 
