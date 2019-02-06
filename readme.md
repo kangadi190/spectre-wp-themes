@@ -1,3 +1,5 @@
+<img width="100%" src="https://raw.githubusercontent.com/kangadi190/spectre-wp-themes/master/screenshot.png"/>
+
 ## Spectre Indonesian Theme
 
 Spectre Themes Free (1.0.1)
